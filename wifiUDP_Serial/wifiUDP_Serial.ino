@@ -3,8 +3,8 @@
 
 
 
-const char* sta_ssid     = "saiPrasadam2.4g";
-const char* sta_password = "BC62D21070E0";
+const char* sta_ssid     = "your wifi name ";
+const char* sta_password = "pass code ";
 
 unsigned int localUdpPort = 14555;
 char incomingPacket[255];
